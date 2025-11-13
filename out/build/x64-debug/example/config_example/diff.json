@@ -1,0 +1,11 @@
+[
+    {
+        "op": "replace",
+        "path": "",
+        "value": {
+            "a1": 35,
+            "b": 1456.234,
+            "c": "random string"
+        }
+    }
+]

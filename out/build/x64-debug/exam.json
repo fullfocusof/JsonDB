@@ -1,0 +1,29 @@
+
+								{
+									"NameTable": "table1",
+									"DateLimit": "2022-12-01 00:00",
+									"data_table": 
+									[
+										{
+											"id": 34,
+											"product": "Produkt1"
+										},
+										{
+											"id": 35,
+											"product": "Produkt2"
+										},
+										"string data example inner array",
+										345.2345,
+										[
+											"array",
+											"in",
+											"array"
+										]
+									],
+									"config_example": 
+									{
+										"a1": 35,
+										"b": 1456.234,
+										"c": "random string"
+									}
+								}

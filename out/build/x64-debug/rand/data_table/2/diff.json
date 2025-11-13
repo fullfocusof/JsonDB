@@ -1,0 +1,10 @@
+[
+    {
+        "op": "replace",
+        "path": "",
+        "value": {
+            "id": 3,
+            "product": "Produkt3"
+        }
+    }
+]

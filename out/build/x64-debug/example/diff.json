@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "",
+        "value": {
+            "NameTable": "table1",
+            "DateLimit": "2022-12-01 00:00",
+            "data_table": [],
+            "config_example": {}
+        }
+    }
+]

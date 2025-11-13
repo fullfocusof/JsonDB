@@ -1,0 +1,10 @@
+[
+    {
+        "op": "replace",
+        "path": "",
+        "value": {
+            "inner_data_0": {},
+            "value": "data_at_level_0"
+        }
+    }
+]

@@ -1,0 +1,214 @@
+[2025-11-13 05:46:15.334292] Программа запущена
+[2025-11-13 05:46:21.033887] Папка 'rand' успешно создана.
+[2025-11-13 05:46:25.961263] Директория rand не существует либо пуста.
+[2025-11-13 05:46:25.969940] Открыт файл rand/diff.json
+[2025-11-13 05:46:25.970191] Данные записаны в файл rand/diff.json
+[2025-11-13 05:46:25.970642] Папка 'rand/data_table' успешно создана.
+[2025-11-13 05:46:25.971168] Открыт файл rand/data_table/diff.json
+[2025-11-13 05:46:25.971417] Данные записаны в файл rand/data_table/diff.json
+[2025-11-13 05:46:25.971906] Папка 'rand/data_table/0' успешно создана.
+[2025-11-13 05:46:25.972232] Открыт файл rand/data_table/0/diff.json
+[2025-11-13 05:46:25.972413] Данные записаны в файл rand/data_table/0/diff.json
+[2025-11-13 05:46:25.973080] Папка 'rand/data_table/1' успешно создана.
+[2025-11-13 05:46:25.973427] Открыт файл rand/data_table/1/diff.json
+[2025-11-13 05:46:25.973626] Данные записаны в файл rand/data_table/1/diff.json
+[2025-11-13 05:46:25.974066] Папка 'rand/data_table/2' успешно создана.
+[2025-11-13 05:46:25.974419] Открыт файл rand/data_table/2/diff.json
+[2025-11-13 05:46:25.974599] Данные записаны в файл rand/data_table/2/diff.json
+[2025-11-13 05:46:25.975014] Папка 'rand/data_table/3' успешно создана.
+[2025-11-13 05:46:25.975336] Открыт файл rand/data_table/3/diff.json
+[2025-11-13 05:46:25.975511] Данные записаны в файл rand/data_table/3/diff.json
+[2025-11-13 05:46:25.975918] Папка 'rand/data_table/4' успешно создана.
+[2025-11-13 05:46:25.976261] Открыт файл rand/data_table/4/diff.json
+[2025-11-13 05:46:25.976490] Данные записаны в файл rand/data_table/4/diff.json
+[2025-11-13 05:46:25.976923] Папка 'rand/data_table/7' успешно создана.
+[2025-11-13 05:46:25.977252] Открыт файл rand/data_table/7/diff.json
+[2025-11-13 05:46:25.977443] Данные записаны в файл rand/data_table/7/diff.json
+[2025-11-13 05:46:25.978130] Папка 'rand/data_table/8' успешно создана.
+[2025-11-13 05:46:25.978533] Открыт файл rand/data_table/8/diff.json
+[2025-11-13 05:46:25.978735] Данные записаны в файл rand/data_table/8/diff.json
+[2025-11-13 05:46:25.979150] Папка 'rand/data_table/8/inner_data_0' успешно создана.
+[2025-11-13 05:46:25.979575] Открыт файл rand/data_table/8/inner_data_0/diff.json
+[2025-11-13 05:46:25.979807] Данные записаны в файл rand/data_table/8/inner_data_0/diff.json
+[2025-11-13 05:46:25.980300] Папка 'rand/data_table/8/inner_data_0/inner_data_1' успешно создана.
+[2025-11-13 05:46:25.980942] Открыт файл rand/data_table/8/inner_data_0/inner_data_1/diff.json
+[2025-11-13 05:46:25.981735] Данные записаны в файл rand/data_table/8/inner_data_0/inner_data_1/diff.json
+[2025-11-13 05:46:25.982404] Папка 'rand/data_table/8/inner_data_0/inner_data_1/inner_data_2' успешно создана.
+[2025-11-13 05:46:25.982846] Открыт файл rand/data_table/8/inner_data_0/inner_data_1/inner_data_2/diff.json
+[2025-11-13 05:46:25.983070] Данные записаны в файл rand/data_table/8/inner_data_0/inner_data_1/inner_data_2/diff.json
+[2025-11-13 05:46:25.983643] Папка 'rand/data_table/8/inner_data_0/inner_data_1/inner_data_2/inner_data_3' успешно создана.
+[2025-11-13 05:46:25.984050] Открыт файл rand/data_table/8/inner_data_0/inner_data_1/inner_data_2/inner_data_3/diff.json
+[2025-11-13 05:46:25.984243] Данные записаны в файл rand/data_table/8/inner_data_0/inner_data_1/inner_data_2/inner_data_3/diff.json
+[2025-11-13 05:46:25.985059] Папка 'rand/config_example' успешно создана.
+[2025-11-13 05:46:25.985464] Открыт файл rand/config_example/diff.json
+[2025-11-13 05:46:25.985653] Данные записаны в файл rand/config_example/diff.json
+[2025-11-13 05:46:25.986104] Папка 'rand/config_example/inner_data_0' успешно создана.
+[2025-11-13 05:46:25.986525] Открыт файл rand/config_example/inner_data_0/diff.json
+[2025-11-13 05:46:25.986737] Данные записаны в файл rand/config_example/inner_data_0/diff.json
+[2025-11-13 05:46:25.987166] Папка 'rand/config_example/inner_data_0/inner_data_1' успешно создана.
+[2025-11-13 05:46:25.987541] Открыт файл rand/config_example/inner_data_0/inner_data_1/diff.json
+[2025-11-13 05:46:25.987737] Данные записаны в файл rand/config_example/inner_data_0/inner_data_1/diff.json
+[2025-11-13 05:46:25.988377] Папка 'rand/config_example/inner_data_0/inner_data_1/inner_data_2' успешно создана.
+[2025-11-13 05:46:25.989083] Открыт файл rand/config_example/inner_data_0/inner_data_1/inner_data_2/diff.json
+[2025-11-13 05:46:25.989637] Данные записаны в файл rand/config_example/inner_data_0/inner_data_1/inner_data_2/diff.json
+[2025-11-13 05:46:25.990767] Папка 'rand/config_example/inner_data_0/inner_data_1/inner_data_2/inner_data_3' успешно создана.
+[2025-11-13 05:46:25.991561] Открыт файл rand/config_example/inner_data_0/inner_data_1/inner_data_2/inner_data_3/diff.json
+[2025-11-13 05:46:25.991869] Данные записаны в файл rand/config_example/inner_data_0/inner_data_1/inner_data_2/inner_data_3/diff.json
+[2025-11-13 05:46:26.002280] База данных успешно сгенерирована
+[2025-11-13 05:46:26.466481] Возврат в меню
+[2025-11-13 05:46:27.418338] Запрос данных
+[2025-11-13 05:46:30.890426] Введен полный путь до узла: rand/data_table
+[2025-11-13 05:46:30.916905] Получен узел rand/data_table: [
+    {
+        "id": 1,
+        "product": "Produkt1"
+    },
+    {
+        "id": 2,
+        "product": "Produkt2"
+    },
+    {
+        "id": 3,
+        "product": "Produkt3"
+    },
+    {
+        "id": 4,
+        "product": "Produkt4"
+    },
+    {
+        "id": 5,
+        "product": "Produkt5"
+    },
+    "string example",
+    345.2345,
+    [
+        "array",
+        "in",
+        "array"
+    ],
+    {
+        "inner_data_0": {
+            "inner_data_1": {
+                "inner_data_2": {
+                    "inner_data_3": {
+                        "inner_data_4": null,
+                        "value": "data_at_level_4"
+                    },
+                    "value": "data_at_level_3"
+                },
+                "value": "data_at_level_2"
+            },
+            "value": "data_at_level_1"
+        },
+        "value": "data_at_level_0"
+    }
+]
+[2025-11-13 05:46:33.461440] Возврат в меню
+[2025-11-13 05:46:34.856405] Запрос данных
+[2025-11-13 05:46:38.591472] Введен полный путь до узла: rand/data_table
+[2025-11-13 05:46:38.617883] Получен узел rand/data_table: [
+    {
+        "id": 1,
+        "product": "Produkt1"
+    },
+    {
+        "id": 2,
+        "product": "Produkt2"
+    },
+    {
+        "id": 3,
+        "product": "Produkt3"
+    },
+    {
+        "id": 4,
+        "product": "Produkt4"
+    },
+    {
+        "id": 5,
+        "product": "Produkt5"
+    },
+    "string example",
+    345.2345,
+    [
+        "array",
+        "in",
+        "array"
+    ],
+    {
+        "inner_data_0": {
+            "inner_data_1": {
+                "inner_data_2": {
+                    "inner_data_3": {
+                        "inner_data_4": null,
+                        "value": "data_at_level_4"
+                    },
+                    "value": "data_at_level_3"
+                },
+                "value": "data_at_level_2"
+            },
+            "value": "data_at_level_1"
+        },
+        "value": "data_at_level_0"
+    }
+]
+[2025-11-13 05:46:42.591522] Возврат в меню
+[2025-11-13 05:46:43.368096] Запрос данных
+[2025-11-13 05:46:47.870522] Введен полный путь до узла: rand/data_table/5
+[2025-11-13 05:46:47.870950] Ошибка открытия файла: rand/data_table/5/diff.json
+[2025-11-13 05:46:47.873064] Ошибка: Ошибка открытия файла: rand/data_table/5/diff.json
+[2025-11-13 05:46:53.511443] Возврат в меню
+[2025-11-13 05:47:10.594221] Запрос данных
+[2025-11-13 05:47:29.818589] Введен полный путь до узла: rand
+[2025-11-13 05:47:31.758495] Введены данные: null
+[2025-11-13 05:47:31.811752] Данные загружены в память из файла rand/diff.json
+[2025-11-13 05:47:31.812164] Данные выгружены в файл из памяти rand/diff.json
+[2025-11-13 05:47:32.594618] Возврат в меню
+[2025-11-13 05:47:35.016310] Запрос данных
+[2025-11-13 05:47:38.733453] Введен полный путь до узла: rand/data_table
+[2025-11-13 05:47:38.761296] Получен узел rand/data_table: [
+    {
+        "id": 1,
+        "product": "Produkt1"
+    },
+    {
+        "id": 2,
+        "product": "Produkt2"
+    },
+    {
+        "id": 3,
+        "product": "Produkt3"
+    },
+    {
+        "id": 4,
+        "product": "Produkt4"
+    },
+    {
+        "id": 5,
+        "product": "Produkt5"
+    },
+    "string example",
+    345.2345,
+    [
+        "array",
+        "in",
+        "array"
+    ],
+    {
+        "inner_data_0": {
+            "inner_data_1": {
+                "inner_data_2": {
+                    "inner_data_3": {
+                        "inner_data_4": null,
+                        "value": "data_at_level_4"
+                    },
+                    "value": "data_at_level_3"
+                },
+                "value": "data_at_level_2"
+            },
+            "value": "data_at_level_1"
+        },
+        "value": "data_at_level_0"
+    }
+]
+[2025-11-13 05:47:49.684804] Возврат в меню
+[2025-11-13 05:47:50.294510] Программа завершена

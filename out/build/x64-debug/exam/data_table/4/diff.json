@@ -1,0 +1,11 @@
+[
+    {
+        "op": "replace",
+        "path": "",
+        "value": [
+            "array",
+            "in",
+            "array"
+        ]
+    }
+]
